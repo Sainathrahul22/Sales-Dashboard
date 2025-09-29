@@ -1,6 +1,6 @@
 # Python virtual environment
 .venv/
-my_sales_env/
+sales_env/
 
 # Python cache
 __pycache__/
